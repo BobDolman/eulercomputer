@@ -21,7 +21,7 @@ More Quantum States:
 | 00 :>   0.0         
 | 01 :>   e*x^2    
 | 10 :>   e^iπ      
-| 11  :>  2           
+| 11 :>  2           
 
 Random Quantum State:
 Q | 2 } -1__0__1  :>
