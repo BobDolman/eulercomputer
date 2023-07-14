@@ -20,13 +20,13 @@ Quantum States:
 More Quantum States:
 | 00 :>   0.0         
 | 01 :>   e*x^2    
-| 10 :>  e^iπ      
-| 11  :>   2           
+| 10 :>   e^iπ      
+| 11  :>  2           
 
 Random Quantum State:
 Q | 2 } -1__0__1  :>
 
 Examples:
 N | 01 : > == 1
-| 101 : > == 4
-| 10 : > == -1
+| 101 : >  == 4
+| 10 : >   == -1
