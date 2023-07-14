@@ -1,0 +1,32 @@
+Euler Computer Technology Written by Bob Dolman
+ 
+pi - 2                                               ≈≈                    sqrt(2)
+pi - 2 - sqrt(2)                                     ≈≈                   -0.27262090878                   ≈≈   -0    
+
+2 - 1         ==  1
+pi - 2        == 1.14159265359...
+
+e*X^2         ==  271.828182846...
+e^iπ          ==  -1
+
+2- sqrt(2)    == 0.58578643762... || sqrt(2) - 2  == -0.58578643762...
+pi - e        == 0.42331082513...
+sqrt(2) - e   == -1.30406826609...
+pi - sqrt(2)  == 1.72737909122...
+
+Quantum States:
+ N | 01 :>    1 
+ S | 01 :>    1 
+More Quantum States:
+| 00 :>   0.0         
+| 01 :>   e*x^2    
+| 10 :>  e^iπ      
+| 11  :>   2           
+
+Random Quantum State:
+Q | 2 } -1__0__1  :>
+
+Examples:
+N | 01 : > == 1
+| 101 : > == 4
+| 10 : > == -1
